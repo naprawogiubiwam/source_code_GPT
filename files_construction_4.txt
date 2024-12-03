@@ -1,0 +1,6 @@
+Files in DIrectory \vscode-chatgpt-main\node_modules\@types\glob:
+node_modules
+index.d.ts
+LICENSE
+package.json
+README.md
