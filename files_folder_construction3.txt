@@ -1,0 +1,16 @@
+Files in directory \vscode-chatgpt-main\node_modules\@types with names:
+debug
+glob
+isomorphic-fetch
+json-schema
+mdast
+minimatch
+mocha
+ms
+node
+semver
+unist
+uuid
+vscode
+vscode-webview
+yauzl
